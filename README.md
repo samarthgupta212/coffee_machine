@@ -7,7 +7,7 @@ Prerequisites
 Go 1.13 or above is installed
 
 1. Clone the repository
-2. Run go build command. This one file with name coffee_machine.exe in case of windows 
-   coffee_machine in case of mac/linux machine should be created
-3. Then run ./coffee_machine or coffee_machine.exe to make the code run
+2. Run go build command. One file with name coffee_machine.exe in case of windows.
+   coffee_machine in case of mac/linux machine should be created.
+3. Then run ./coffee_machine or coffee_machine.exe to make the code run.
 4. To run test cases run go test -v ./...
